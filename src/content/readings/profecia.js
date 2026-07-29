@@ -1,0 +1,289 @@
+import { sourceLinks } from "../../config/sources.js";
+
+export const profeciaReadings = {
+  apocalipsis: {
+    lead: "Apocalipsis (Sodot) es un libro de visiones, símbolos y alegorías que revela a Yehoshúa HaMashíaj: quién es Él, cómo gobierna, cómo juzga y cómo guarda a su pueblo hasta el final.",
+    question: "¿Cómo leer Apocalipsis (Sodot)? ¿Qué significa que sea una revelación de Yehoshúa HaMashíaj y cómo debe perseverar el pueblo de Elohim dentro de sus visiones?",
+    visual: { src: "/images/montanas-techelet.webp", alt: "Montañas", why: "La visión apocalíptica pide altura, memoria y contexto: desde el Tanaj y las visiones del Segundo Templo se contemplan las obras, el juicio y la perseverancia del pueblo de Yehoshúa." },
+    intro: "Apocalipsis (Sodot) no es simplemente una lista de predicciones ni un código para descifrar titulares. Desde el inicio se presenta como una revelación de Yehoshúa HaMashíaj. Esto significa dos cosas inseparables: Él es quien da a conocer el mensaje y Él mismo es el centro de lo que se da a conocer. El libro muestra su identidad, su autoridad, su presencia entre las asambleas, su victoria, su juicio sobre la tierra y la preservación de quienes permanecen fieles. Sus sellos, trompetas, bestias, mujeres, números y ciudades pertenecen a un lenguaje simbólico y alegórico arraigado en Daniel, Isaías (Ieshaiáhu), Ezequiel (Iejezqel), Zacarías, los Salmos (Tehilim) y la literatura apocalíptica judía del Segundo Templo. La pregunta principal no es qué noticia moderna corresponde a cada imagen, sino qué está revelando Yehoshúa y cómo llama a su pueblo a perseverar.",
+    passages: [
+      { ref: "Apocalipsis (Sodot) 1:1 · TTH", text: "La revelación de Yehoshúa HaMashíaj, que Elohim le dio, para manifestar a sus siervos las cosas que deben suceder pronto…", note: "El título define el centro: es la revelación de Yehoshúa. Él comunica la visión, pero también es la persona cuya identidad, gobierno y juicio se manifiestan." },
+      { ref: "Apocalipsis (Sodot) 1:3 · TTH", text: "Feliz el que lee y los que oyen las palabras de esta profecía, y guardan las cosas escritas en ella, porque el tiempo está cerca.", note: "La finalidad no es alimentar curiosidad. Leer, oír y guardar forman una respuesta de obediencia y perseverancia." },
+      { ref: "Apocalipsis (Sodot) 1:4, 11 · TTH", text: "Yojanán, a las siete asambleas que están en Asia… Escribe en un rollo lo que ves y envíalo a las siete asambleas…", note: "Las asambleas fueron comunidades reales del siglo I, pero el número siete y su función representativa permiten escuchar en ellas el mensaje dirigido a la totalidad de las congregaciones de Mashíaj." },
+      { ref: "Apocalipsis (Sodot) 1:12–16 · TTH", text: "…vi siete candeleros de oro, y en medio de los siete candeleros a uno semejante al Hijo del Hombre…", note: "La visión coloca a Yehoshúa en medio de las asambleas. Antes de explicar bestias o juicios, hay que contemplar quién camina entre los candeleros y tiene autoridad sobre ellos." },
+      { ref: "Apocalipsis (Sodot) 1:20 · TTH", text: "El misterio de las siete estrellas… y de los siete candeleros de oro: las siete estrellas son los mensajeros de las siete asambleas, y los siete candeleros son las siete asambleas.", note: "El propio libro interpreta símbolos. Esta es una clave de lectura: algunas imágenes se explican internamente y otras deben leerse mediante sus ecos en el Tanaj." },
+      { ref: "Apocalipsis (Sodot) 2:2–5 · TTH", text: "Yo conozco tus obras, tu trabajo y tu perseverancia… pero tengo contra ti que abandonaste tu primer amor…", note: "La visión se convierte en examen del pueblo: obras, sufrimiento, discernimiento, amor y retorno. La profecía llama a corregir la vida, no solo a identificar fechas." },
+      { ref: "Apocalipsis (Sodot) 2:10 · TTH", text: "Sé fiel hasta la muerte, y te daré la corona de la vida.", note: "El centro pastoral del libro es perseverar en fidelidad bajo aflicción. La victoria se recibe permaneciendo en Yehoshúa." },
+      { ref: "Apocalipsis (Sodot) 2:7 · TTH", text: "El que tenga oído, oiga lo que el Ruaj dice a las asambleas…", note: "La misma llamada se repite en los mensajes a las kehilot. Perseverar comienza por recibir el oído que escucha lo que el Ruaj dice, no por controlar el contexto." },
+      { ref: "Apocalipsis (Sodot) 3:10 · TTH", text: "Porque guardaste la palabra de mi perseverancia, Yo también te guardaré de la hora de la prueba…", note: "Yehoshúa no solo advierte: guarda a quienes guardan su palabra. La visión enseña cómo el pueblo es preservado en medio de la prueba." },
+      { ref: "Apocalipsis (Sodot) 12:17 · TTH", text: "…los que guardan los mandamientos de Elohim y tienen el Testimonio de Yehoshúa el Mesías.", note: "El libro identifica al pueblo fiel por dos marcas inseparables: guardar los mandamientos de Elohim y tener el Testimonio de Yehoshúa." },
+      { ref: "Apocalipsis (Sodot) 14:12 · TTH", text: "Aquí está la perseverancia de los santos: aquí están los que guardan los mandamientos de Elohim y la fidelidad de Yehoshúa.", note: "La perseverancia no es pasividad. Es permanecer en los mandamientos y en la fidelidad del Mesías mientras se atraviesa la presión de la bestia." },
+      { ref: "Apocalipsis (Sodot) 11:8 · TTH", text: "…la gran ciudad que en sentido espiritual se llama Sedom y Mitzráim, donde también nuestro Adón fue crucificado.", note: "El propio texto usa una designación espiritual. Un nombre puede representar una condición y no funcionar únicamente como coordenada geográfica." },
+      { ref: "Daniel 7:13–14 · TTH", text: "…como un hijo de hombre venía… Y a Él fue dado dominio, gloria y reino…", note: "Daniel proporciona el marco de la visión: el Ben Ha’Adam recibe dominio y se acerca al Anciano de días. Apocalipsis relee esa identidad en Yehoshúa." },
+      { ref: "Apocalipsis (Sodot) 19:10 · TTH", text: "…el Testimonio de Yehoshúa es el espíritu de la profecía.", note: "Toda profecía verdadera debe conducir al Testimonio de Yehoshúa. El libro no puede reducirse a curiosidad sobre acontecimientos: su centro es el Mesías." }
+    ],
+    method: [
+      "Reconoce primero que estás ante una visión y un lenguaje apocalíptico.",
+      "Pregunta qué revela la escena acerca de Yehoshúa: su identidad, autoridad, juicio o cuidado del pueblo.",
+      "Busca el eco de la imagen en el Tanaj y en el lenguaje apocalíptico del Segundo Templo.",
+      "Mira si el propio libro interpreta el símbolo.",
+      "Escucha el mensaje histórico dirigido a las siete asambleas y su alcance representativo para las congregaciones de Mashíaj.",
+      "Distingue lo que el texto afirma de lo que todavía debe investigarse; no fuerces una conclusión sobre la literalidad de cada detalle.",
+      "Pregunta finalmente cómo el pueblo es llamado a guardar, vencer y perseverar en Yehoshúa."
+    ],
+    lexicon: [
+      ["Ἀποκάλυψις · apocalipsis", "Revelación, desvelamiento o descubrimiento. En el marco bíblico, el movimiento va de Elohim hacia el ser humano: Elohim quita el velo y da a conocer."],
+      ["Sodot", "Misterios o cosas ocultas que son manifestadas. El título recuerda que la visión debe recibirse, no dominarse mediante especulación."],
+      ["Género apocalíptico", "Forma literaria de visiones, símbolos, alegorías, juicios y esperanza, arraigada en Daniel y desarrollada en el judaísmo del Segundo Templo."],
+      ["Visión", "Experiencia revelada en la que el vidente contempla escenas y realidades que no están siendo descritas como una fotografía ordinaria. La visión puede contener elementos históricos, celestiales y simbólicos."],
+      ["Símbolo", "Imagen que representa una realidad y que debe interpretarse por el contexto, el Tanaj y, cuando existe, la explicación interna del libro."],
+      ["Asamblea", "Comunidad convocada. Las siete asambleas fueron históricas y concretas; también funcionan como representación de la totalidad de las congregaciones de Mashíaj."],
+      ["Testimonio de Yehoshúa", "El centro de la profecía: quién es Yehoshúa, qué ha hecho, qué exige de su pueblo y cómo juzgará."],
+      ["Bestia / Babilonia / sellos / trompetas", "Lenguaje visual del libro que reutiliza Daniel, Isaías (Ieshaiáhu), Ezequiel (Iejezqel), Zacarías y otros escritos."],
+      ["Literal y simbólico", "No son categorías que deban resolverse de antemano para cada detalle. El propósito es entender el mensaje revelado y respetar la forma literaria." ]
+    ],
+    historical: [
+      ["Género apocalíptico", "En el judaísmo del Segundo Templo existía una tradición de literatura apocalíptica con visiones, símbolos, alegorías, juicios y esperanza. No comenzó con Apocalipsis (Sodot): Daniel es un antecedente bíblico decisivo."],
+      ["Qumrán y los rollos del Mar Muerto", "La comunidad de Qumrán conservó y produjo textos que muestran el uso de visiones y lenguaje apocalíptico en el entorno judío anterior y cercano al siglo I. Este contexto ayuda a leer el género sin exigir que cada imagen sea una descripción literal ordinaria."],
+      ["La mecánica de una visión", "Una visión no es simplemente inventar figuras ni describir un sueño sin conciencia. El vidente recibe capacidad para contemplar una escena revelada y debe aprender el lenguaje de sus imágenes, colores, animales, números y lugares."],
+      ["Siete asambleas de Asia", "Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea fueron comunidades reales del siglo I en Asia Menor. El libro les habla primero a ellas; por su número y función, también representan a la totalidad de las congregaciones de Mashíaj."],
+      ["Mensajes concretos y alcance representativo", "Cada asamblea recibe un diagnóstico concreto: obras, tribulación, fidelidad, abandono del primer amor, tolerancia, engaño o tibieza. No son una clave automática para denominaciones actuales; son espejos de las condiciones que pueden aparecer en el pueblo del Mesías."],
+      ["Tanaj: Escrituras hebreas (Torah, Profetas, Escritos), a menudo llamadas “Antiguo Testamento”.", "Sin Daniel, Isaías (Ieshaiáhu), Ezequiel (Iejezqel), Zacarías y los Salmos (Tehilim), muchas imágenes de Apocalipsis (Sodot) pierden su campo de significado."],
+      ["Segundo Templo: mundo judío ~siglo VI a.e.c.–70 e.c., con Templo en Yerushaláyim.", "Yehoshúa vivió al final de ese período. Las expectativas sobre el Mesías, el juicio, la resurrección, los imperios y la restauración forman parte del horizonte de los primeros lectores."],
+      ["Revelación de Yehoshúa", "El libro se distingue de otras literaturas apocalípticas porque no solo usa un lenguaje semejante: afirma que la revelación pertenece a Yehoshúa, muestra su identidad y anuncia su dominio sobre la tierra y sus poderes."]
+    ],
+    sections: [
+      ["Primero: es la revelación de Yehoshúa HaMashíaj", [
+        "La primera frase del libro no dice simplemente “revelación de acontecimientos”: dice “revelación de Yehoshúa HaMashíaj”. Es decir, la revelación procede de Él y revela quién es Él.",
+        "El libro muestra al Mesías en medio de los candeleros, con autoridad sobre sus asambleas; como el Ben Ha’Adam anunciado por Daniel, recibiendo dominio; como el Testigo Fidedigno, el Cordero, el Rey y el Juez. Los eventos importan porque manifiestan su gobierno y su juicio.",
+        "Por eso el libro no puede leerse como una colección de claves separadas de la persona del Mesías. Cada visión debe volver a esta pregunta: ¿qué está revelando acerca de Yehoshúa y de su obra?"
+      ]],
+      ["Qué clase de libro estamos leyendo", [
+        "Apocalipsis (Sodot) habla mediante visiones. El vidente contempla escenas celestiales, seres, colores, números, animales, ciudades y acciones que comunican realidades profundas.",
+        "Es un libro muy simbólico y alegórico desde el inicio. Esto no significa que todo sea irreal ni que cualquier interpretación sea válida. Significa que la forma literaria obliga a buscar el significado de la imagen, su eco en el Tanaj y su función dentro de la visión.",
+        "Algunas cosas tienen un referente histórico concreto; otras funcionan como representación; otras combinan historia, juicio y realidad celestial. No es necesario resolver por adelantado si cada detalle será literal o simbólico para obedecer el mensaje central del libro."
+      ]],
+      ["El trasfondo apocalíptico: Daniel, Qumrán y las visiones", [
+        "El género apocalíptico ya existía en el entorno judío del Segundo Templo. Daniel ofrece el modelo bíblico de bestias, imperios, tronos, Anciano de días, juicio y reino; los rollos de Qumrán muestran que las comunidades judías también leían y producían textos con visiones y lenguaje simbólico.",
+        "Por eso el lector original no recibía cada bestia, color o número como una fotografía inesperada. Reconocía un lenguaje que debía ser interpretado dentro de las Escrituras, la memoria de Israel y la esperanza del juicio de Elohim.",
+        "La visión no es evasión de la realidad: es una manera de verla desde el cielo, mostrar lo que los poderes ocultan y revelar cuál será el desenlace bajo el gobierno de Yehoshúa."
+      ]],
+      ["Las siete asambleas: históricas y representativas", [
+        "Las siete asambleas de Asia existieron: recibieron cartas dirigidas a sus mensajeros y fueron examinadas por sus obras, su sufrimiento, su enseñanza, su fidelidad y sus desviaciones. No debemos borrar esa primera referencia histórica.",
+        "A la vez, siete no funciona solamente como un dato de cantidad. En el lenguaje bíblico expresa totalidad. Por eso las siete asambleas permiten escuchar un mensaje dirigido a la totalidad de las congregaciones de Mashíaj: distintas condiciones que pueden aparecer en el pueblo y delante de las cuales Yehoshúa llama a vencer.",
+        "Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea no son etiquetas automáticas para asignar a cada denominación contemporánea. Son comunidades concretas y, al mismo tiempo, representaciones que examinan al pueblo del Mesías a través de las épocas."
+      ]],
+      ["Oídos para oír: la condición de toda perseverancia", [
+        "En cada mensaje a las kehilot aparece la llamada: “El que tenga oído, oiga lo que el Ruaj dice a las asambleas”. No importa si la asamblea está en tribulación, pobreza, engaño, persecución, comodidad o tibieza: la única forma de perseverar es oír lo que el Ruaj está diciendo.",
+        "Tener oídos para oír no significa simplemente poseer capacidad física de escuchar ni estar expuesto a palabras religiosas. Significa recibir de Yehoshúa la capacidad espiritual para reconocer su voz, aceptar su corrección, guardar su Testimonio y caminar en obediencia.",
+        "Por eso la perseverancia no nace del temperamento del creyente ni de un contexto favorable. Yehoshúa es quien abre el oído, concede entendimiento y hace posible que su pueblo escuche. El que oye puede volver, resistir, discernir, guardar los mandamientos y vencer; el que no oye puede tener una asamblea, una doctrina o una reputación, pero no responde al llamado del Mesías.",
+        "La visión no termina en información sobre el futuro. Termina en una petición implícita: que Yehoshúa nos dé oídos para oír lo que el Ruaj dice hoy a sus asambleas."
+      ]],
+      ["El problema que sí debe resolver el libro", [
+        "Apocalipsis (Sodot) no fue dado para satisfacer curiosidad sobre fechas, sino para formar un pueblo que ve, oye, guarda y persevera.",
+        "Yehoshúa conoce las obras de sus asambleas, reprende lo que debe ser corregido, fortalece a los que sufren, promete guardar a quienes guardan su palabra y llama a vencer hasta el final. Pero la respuesta comienza antes: oír lo que el Ruaj dice.",
+        "El pueblo de Elohim es guardado no por dominar todos los detalles de la visión, sino por permanecer en el Testimonio de Yehoshúa, guardar los mandamientos de Elohim, salir de la contaminación y no rendirse ante la presión de los poderes de la tierra."
+      ]],
+      ["Cómo leer cada imagen", [
+        "Identifica la escena y reconoce que estás ante una visión.",
+        "Pregunta qué revela acerca de Yehoshúa: su identidad, su autoridad, su presencia, su juicio o su cuidado.",
+        "Busca el eco en el Tanaj y en el lenguaje apocalíptico del Segundo Templo.",
+        "Observa si el propio libro interpreta el símbolo, como ocurre con las estrellas y los candeleros.",
+        "Escucha lo que la visión decía a las asambleas reales y cómo representa al pueblo de Mashíaj.",
+        "Distingue observación, interpretación y aplicación. Solo después pregunta si un cumplimiento es histórico, futuro, literal, simbólico o una combinación sostenida por el texto."
+      ]],
+      ["Qué queda por desarrollar símbolo por símbolo", [
+        "Esta página establece el género y el centro de lectura, pero no pretende cerrar aquí la identificación de cada bestia, sello, trompeta, mujer o ciudad.",
+        "Cada desarrollo debe mostrar su paralelo en el Tanaj, distinguir observación de interpretación y explicar qué exige la visión al pueblo de Yehoshúa.",
+        "Los mensajes a Éfeso y Pérgamo sirven como puntos de entrada para ver cómo el Mesías examina a sus asambleas, denuncia la mezcla y llama a vencer; no sustituyen el cotejo de todo el libro."
+      ]]
+    ],
+    answer: "Apocalipsis (Sodot) es una revelación de Yehoshúa HaMashíaj expresada mediante visiones, símbolos y alegorías del lenguaje bíblico y apocalíptico del Segundo Templo. Las siete asambleas fueron históricas y también representan a la totalidad de las congregaciones de Mashíaj. El libro no exige resolver de antemano qué será literal o simbólico: exige reconocer al Mesías, escuchar su juicio, guardar sus mandamientos, mantener su Testimonio y perseverar hasta el final.",
+    sources: [[sourceLinks.apocalipsisIntroduccion, "Apocalipsis (Sodot) 1: presentación y revelación de Yehoshúa"], [sourceLinks.apocalipsis, "Apocalipsis (Sodot) 1: contexto apocalíptico"], [sourceLinks.apocalipsisVision, "Apocalipsis (Sodot): visiones y Ben Ha’Adam"], [sourceLinks.nicolaismoEfeso, "Mensaje a Éfeso"], [sourceLinks.nicolaismoPergamo, "Mensaje a Pérgamo"], [sourceLinks.dosTestigos, "Nombres espirituales"]]
+  },
+  isaias19: {
+    lead: "Isaías (Ieshaiáhu) 19 parece una carga contra Mitzráim, pero su riqueza aparece cuando se lee dentro del pacto: Elohim está hablando a Israel mediante nombres históricos, lugares de dispersión y condiciones que su pueblo conoce desde la esclavitud, el exilio y la idolatría.",
+    question: "¿Por qué Isaías (Ieshaiáhu) 19 parece hablar contra otras naciones, y cómo revela en realidad la corrección, transformación y restauración del pueblo de יהוה?",
+    visual: { src: "/images/dunas-techelet.webp", alt: "Dunas", why: "El oráculo habla de juicio, travesía y una carretera entre fronteras. El desierto evoca tránsito y promesa, no un titular geopolítico fácil." },
+    intro: "Isaías (Ieshaiáhu) 19 es una “carga” sobre Mitzráim. La palabra carga no es un simple titular sobre un país: es una palabra pesada de juicio, corrección y propósito que se coloca sobre un pueblo dentro de la historia de יהוה. Para comprenderla hay que recordar a quién habla el profeta, cuál es el pueblo del pacto y qué función cumplen los nombres de las naciones en la memoria de Israel. Mitzráim y Ashur fueron naciones históricas, pero también fueron casa de esclavitud, imperios que oprimieron, lugares donde Israel fue dispersado y nombres que pueden representar condiciones espirituales del propio pueblo. Por eso Isaías no está cambiando el sujeto del pacto cada vez que menciona un territorio. Está usando nombres reconocibles para mostrar cómo יהוה juzga, dispersa, reúne, sana y vuelve a llamar “mi pueblo”.",
+    passages: [
+      { ref: "Isaías (Ieshaiáhu) 1:2–4 · TTH", text: "Oigan, cielos… Hijos he hecho crecer y los he levantado, pero ellos se han rebelado contra Mí… Israel no conoce, mi pueblo no tiene discernimiento… ¡Oy, nación pecadora, pueblo pesado de iniquidad, simiente de malhechores, hijos corrompidos!", note: "Isaías habla del mismo sujeto con palabras de pacto —hijos, Israel, mi pueblo— y con el lenguaje de una nación pecadora. El pueblo no dejó de ser el pueblo por comportarse como las naciones; precisamente por eso es confrontado por יהוה." },
+      { ref: "Isaías (Ieshaiáhu) 19:1 · TTH", text: "Carga de Mitzráim. He aquí, יהוה monta sobre una nube ligera y entra a Mitzráim; y se conmoverán los ídolos de Mitzráim…", note: "El oráculo abre con juicio contra la idolatría. La pregunta no es solo dónde está Mitzráim, sino qué condición del pueblo está siendo expuesta delante de יהוה." },
+      { ref: "Isaías (Ieshaiáhu) 19:3–4 · TTH", text: "Y se vaciará el aliento de Mitzráim dentro de él; y su consejo tragaré… Y entregaré a Mitzráim en mano de un amo duro…", note: "El colapso es interior: el consejo falla y se busca a los ídolos. Las notas de estudio insisten en leer al pueblo desde su rebelión y sus lugares altos, no desde una etiqueta geopolítica aislada." },
+      { ref: "Isaías (Ieshaiáhu) 19:16–17 · TTH", text: "En aquel día serán Mitzráim como mujeres… y temerá y temblará por causa del movimiento de la mano de יהוה… Y será la tierra de Yehudá para espanto de Mitzráim…", note: "Mitzráim aparece en relación con Yehudá. El texto no presenta dos sujetos desconectados: los nombres están dentro de la historia de juicio, memoria y pacto de Israel." },
+      { ref: "Isaías (Ieshaiáhu) 19:19–22 · TTH", text: "…habrá un altar a יהוה en medio de la tierra de Mitzráim… clamarán a יהוה… enviará para ellos un Salvador… golpeó y sanará…", note: "El arco no es solo condena. El clamor, el conocimiento de יהוה y la sanidad solo se entienden cuando el nombre de Mitzráim queda sometido al propósito del Elohim del pacto." },
+      { ref: "Isaías (Ieshaiáhu) 19:23–25 · TTH", text: "…habrá una carretera desde Mitzráim hasta Ashur… será Israel triple… ¡Bendito es mi pueblo Mitzráim, y hechura de mis manos Ashur, y mi herencia Israel!", note: "Las posesiones son decisivas: “mi pueblo”, “hechura de mis manos”, “mi herencia”. El cierre no autoriza tres Estados modernos independientes como lectura automática; muestra una relación restaurada alrededor de יהוה e Israel." },
+      { ref: "Isaías (Ieshaiáhu) 11:10–12 · TTH", text: "Y sucederá que en aquel día, la raíz de Ishai que está parada por estandarte de los pueblos, a Él las naciones buscarán… volverá Adonai… a comprar al remanente de su pueblo que haya quedado de Ashur y de Mitzráim… y reunirá a los desnaturalizados de Israel, y a los dispersos de Iehudáh…", note: "Este paralelo muestra por qué Ashur y Mitzráim no deben leerse automáticamente como pueblos ajenos al pacto: son lugares de los que Adonai reúne al remanente de su propio pueblo alrededor de la raíz de Ishai, el Mesías." },
+      { ref: "Isaías (Ieshaiáhu) 27:12–13 · TTH", text: "…ustedes serán recogidos uno a uno, hijos de Israel… vendrán los perecidos en la tierra de Ashur y los empujados en la tierra de Mitzráim, y se postrarán a יהוה…", note: "El profeta vuelve a nombrar Ashur y Mitzráim como lugares donde están los hijos de Israel dispersos. La geografía de las naciones sirve para narrar la dispersión y la reunión del pueblo del pacto." },
+      { ref: "Oseas (Hoshea) 1:10; 2:23 · TTH", text: "…en el lugar donde se les dice: ‘No son mi pueblo’, se les dirá: ‘Hijos del El vivo’… y diré a lo que no era mi pueblo: ‘Pueblo mío eres tú’, y él dirá: ‘¡Elohim mío!’", note: "La restauración es una transformación del pueblo que había sido juzgado, no el descarte de Israel y la creación de un pueblo sin pacto. El que restaura, reúne y vuelve a llamar “mi pueblo” es יהוה." },
+      { ref: "Ezequiel (Iejezqel) 37:21–22 · TTH", text: "He aquí, Yo tomo a los hijos de Israel de entre las naciones que fueron allí, y los reuniré de alrededor y los haré entrar a su tierra. Y los haré una nación en la tierra… y un rey será para todos ellos…", note: "El patrón profético es reunión y transformación: los dispersos son tomados de entre las naciones y vuelven a ser un pueblo bajo un solo Rey. Esto ayuda a leer la carretera y la bendición de Isaías 19." },
+      { ref: "Apocalipsis (Sodot) 11:8 · TTH", text: "…la gran ciudad que en sentido espiritual se llama Sedom y Mitzráim, donde también nuestro Adón fue crucificado.", note: "Clave de representación: un nombre de nación puede designar la condición de la ciudad/pueblo. Por eso Isaías (Ieshaiáhu) 19 no se agota en geopolítica." }
+    ],
+    method: [
+      "Lee la carga completa, no solo la primera mención de Mitzráim.",
+      "Identifica al sujeto del pacto: quién es corregido, quién clama, quién es sanado y quién termina siendo llamado “mi pueblo”.",
+      "Relaciona Mitzráim y Ashur con esclavitud, idolatría, imperio, dispersión y restauración dentro de la historia de Israel.",
+      "Compara el comportamiento denunciado en Israel con el de Mitzráim y Ashur: idolatría, orgullo, falsa seguridad, injusticia, alianzas humanas y confusión espiritual.",
+      "Compara Isaías 19 con Isaías 11 y 27, Oseas 1–2 y Ezequiel 37.",
+      "Sigue el arco: idolatría y confusión → juicio → clamor → conocimiento de יהוה → sanidad → reunión y bendición.",
+      "No borres el referente histórico de Egipto o Asiria, pero tampoco permitas que la geografía desplace al pacto y al pueblo al que Elohim está restaurando."
+    ],
+    lexicon: [
+      ["מַשָּׂא · massa", "Carga, peso u oráculo. Una palabra profética pesada que pone delante de un pueblo el juicio, la corrección y el propósito de יהוה."],
+      ["עַם · am", "Pueblo. En la palabra profética no equivale automáticamente a un Estado moderno: hay que ver la relación, la pertenencia y el pacto."],
+      ["מִצְרַיִם · Mitzráim", "Egipto en hebreo. Es un nombre histórico y también evoca la casa de esclavitud, idolatría, opresión y el lugar desde el que יהוה puede redimir y reunir a su pueblo."],
+      ["אַשּׁוּר · Ashur", "Asiria. Es una potencia histórica y, en el lenguaje profético, un lugar de opresión, dispersión y remanente de Israel; también puede representar el poder imperial que se levanta contra el pueblo."],
+      ["בְּרִית · brit", "Pacto. El marco que permite preguntar quién recibe juicio, misericordia, sanidad y la fórmula “mi pueblo”."],
+      ["Remanente", "Los que quedan y son reunidos por Adonai desde los lugares de dispersión. En Isaías 11:11, Ashur y Mitzráim son lugares de los que Él compra al remanente de su pueblo."],
+      ["Representación profética", "Usar un nombre histórico para hablar de una condición del pueblo delante de יהוה (por ejemplo, Apocalipsis (Sodot) 11:8 dice “en sentido espiritual”)."]
+    ],
+    historical: [
+      ["El sujeto profético", "El análisis del contexto recalca que el profeta está hablando al pueblo de Israel/Yehudá: “mi pueblo” no es una etiqueta decorativa. La palabra nace dentro del pacto, denuncia la idolatría del pueblo y llama a volver a יהוה."],
+      ["Egipto y Asiria dentro de la historia de Israel", "Fueron potencias reales que oprimieron, tentaron o recibieron al pueblo disperso. Por eso sus nombres pueden funcionar a la vez como historia, geografía de exilio y representación de esclavitud, idolatría, alianza carnal, imperio o condición espiritual."],
+      ["Riqueza de los paralelos proféticos", "Isaías 11 y 27 explican que el remanente de Israel está en Ashur y Mitzráim; Oseas muestra que el pueblo juzgado vuelve a ser llamado “Pueblo mío”; Ezequiel anuncia que los dispersos serán reunidos como una sola nación. Estos paralelos impiden leer Isaías 19 como una carga aislada contra una nación sin relación con Israel."],
+      ["Tanaj: Escrituras hebreas (Torah, Profetas, Escritos), a menudo llamadas “Antiguo Testamento“.", "Isaías (Ieshaiáhu) es un libro del Tanaj del período de los reinos e imperios antiguos."],
+      ["Apocalipsis (Sodot) 11:8", "Muestra que “Egipto” puede usarse en sentido espiritual para la ciudad donde el Adón fue crucificado."],
+      ["Israel y el comportamiento de las naciones", "Isaías puede llamar a Israel “hijos”, “Israel”, “mi pueblo” y, en la misma denuncia, “nación pecadora”. El problema no es que יהוה haya cambiado de pueblo, sino que el pueblo del pacto adoptó patrones de las naciones: idolatría, orgullo, falsa seguridad, injusticia y dependencia de poderes humanos."],
+      ["Contexto histórico y lectura representativa", "Reconocer una función representativa no borra la historia de Mitzráim o Ashur. Sus reinos antiguos ya no existen como los imperios que conocieron los profetas; por eso no deben convertirse automáticamente en nombres de estados actuales. La historia externa debe servir para iluminar el drama del pacto y la restauración de Israel."]
+    ],
+    sections: [
+      ["Qué está pasando, paso a paso", [
+        "Juicio sobre ídolos, falsos consejeros y dirigentes que no tienen respuesta.",
+        "Confusión interna: Mitzráim contra Mitzráim, ciudad contra ciudad y reino contra reino.",
+        "Opresión, debilidad y una condición que necesita ser juzgada por יהוה.",
+        "Temor al recordar a Yehudá y confrontación con la historia del pacto.",
+        "Altar, clamor, Salvador, conocimiento de יהוה y sanidad.",
+        "Carretera, reunión y bendición: “mi pueblo Mitzráim”, “hechura de mis manos Ashur” y “mi herencia Israel”."
+      ]],
+      ["Por qué parece hablar a otras naciones", [
+        "Isaías usa nombres de pueblos y territorios porque Israel vivió dentro de esa historia: fue esclavo en Mitzráim, fue amenazado por Ashur y fue dispersado entre las naciones. Los nombres no aparecen en un vacío geopolítico; forman parte de la memoria de Israel.",
+        "Cuando la profecía habla de Mitzráim contra Mitzráim, de sus jefes, su sabiduría, su idolatría y su posterior clamor, está describiendo una condición que puede recaer sobre el pueblo y sus poderes. El nombre externo permite ver desde fuera lo que Israel no reconoce dentro de sí.",
+        "La fórmula final demuestra la dirección del mensaje: el capítulo no termina separando tres pueblos sin relación, sino colocando a Mitzráim, Ashur e Israel bajo la bendición y la posesión de יהוה. La carga tenía como meta una restauración gobernada por Él."
+      ]],
+      ["Israel se comportó como las naciones", [
+        "El punto de partida no es que Israel haya sido sustituido por Mitzráim o Ashur. Isaías puede hablarle a Israel como a hijos y como a “mi pueblo”, y al mismo tiempo denunciarlo como una nación pecadora. La identidad del pueblo del pacto permanece mientras su conducta es juzgada.",
+        "Por eso Mitzráim y Ashur funcionan también como espejos del comportamiento de Israel. Mitzráim recuerda la esclavitud, la idolatría y la falsa confianza; Ashur recuerda el orgullo imperial, la opresión, la dispersión y la dependencia de poderes humanos. Israel podía reproducir esas mismas actitudes aunque tuviera una historia y un llamamiento distintos.",
+        "Cuando יהוה usa esos nombres para hablar de juicio, no está cambiando de interlocutor en cada versículo. Está mostrando a su pueblo, mediante referencias históricas conocidas, en qué se ha convertido y qué debe abandonar. La reprensión tiene el propósito de producir clamor, conocimiento de יהוה, sanidad y regreso al pacto.",
+        "Esto permite conservar las dos dimensiones del texto: Mitzráim y Ashur fueron reinos reales del mundo antiguo, pero sus nombres también exponen condiciones espirituales y políticas que Israel podía asumir. No se trata de reemplazar la historia por una alegoría total, sino de leer la historia dentro del trato de יהוה con su pueblo."
+      ]],
+      ["Cómo se ve el pacto y la restauración", [
+        "La secuencia es la de una relación: יהוה juzga la idolatría, el pueblo queda sin consejo, clama, recibe respuesta, es golpeado y sanado.",
+        "Los paralelos de Isaías 11 y 27 aclaran que desde Ashur y Mitzráim se reúne al remanente de Israel. Oseas muestra que el pueblo que había sido llamado “no mi pueblo” vuelve a ser llamado “Pueblo mío”. Ezequiel anuncia la reunión de los dispersos en una sola nación bajo un solo Rey.",
+        "La restauración no es reemplazo. Es el mismo pueblo que Adonai corrige y transforma, al que incorpora a los que estaban lejos y reúne alrededor de su promesa. La carretera de Isaías 19 expresa tránsito, comunión y servicio bajo el gobierno de יהוה.",
+        "Por eso las fórmulas posesivas del cierre —“mi pueblo”, “hechura de mis manos”, “mi herencia”— son más importantes que la etiqueta territorial. El capítulo termina con pertenencia restaurada y con un pueblo bajo Elohim."
+      ]],
+      ["Lo que no se debe hacer", [
+        "Extraer una frase para una marca ministerial.",
+        "Borrar a Israel y el pacto del oráculo.",
+        "Convertir Mitzráim y Ashur en protagonistas modernos sin demostrarlo en el texto.",
+        "Reducir el capítulo a una tabla de Estados extranjeros y perder la condición espiritual que está siendo expuesta.",
+        "Decir que cada mención de Egipto o Asiria siempre es alegórica: el referente histórico sigue importando y es parte de la riqueza de la representación."
+      ]]
+    ],
+    answer: "Isaías (Ieshaiáhu) 19 es una carga profética que parece dirigirse a Mitzráim, pero se entiende dentro de la historia del pacto: Israel se había comportado de manera semejante a las naciones y יהוה le habla usando nombres históricos que reflejan esclavitud, idolatría, orgullo, opresión y dispersión. Mitzráim y Ashur fueron reinos reales del mundo antiguo, no nombres que deban trasladarse automáticamente a estados actuales. La misma palabra que juzga conduce al clamor, al conocimiento de יהוה, a la sanidad y a la reunión del remanente. El capítulo no enseña reemplazo: muestra a יהוה transformando y reuniendo a su pueblo, junto con los que incorpora, bajo su gobierno y alrededor de su promesa.",
+    sources: [[sourceLinks.isaiasIntro, "Isaías (Ieshaiáhu): introducción"], [sourceLinks.isaiasIntro2, "Isaías (Ieshaiáhu): el pueblo y su contexto"], [sourceLinks.natanaelIsaias19Primera, "Isaías (Ieshaiáhu) 19: carga judicial de Mitzráim"], [sourceLinks.natanaelIsaias19Segunda, "Isaías (Ieshaiáhu) 19: Mitzráim conocerá a Elohim"], [sourceLinks.romanos11, "Israel, remanente e injerto"], [sourceLinks.dosTestigos, "Mitzráim en sentido espiritual"]]
+  },
+  isaias56: {
+    lead: "Una casa de oración no es simplemente un edificio donde se pronuncian oraciones. Es el lugar de reunión y la realidad del pueblo que יהוה forma para acercarse a Él con justicia, fidelidad y esperanza.",
+    question: "¿Qué significa “casa de oración para todos los pueblos”, quién es el templo y cuál es el pacto al que se aferran los que יהוה reúne?",
+    visual: { src: "/images/aguas-techelet.webp", alt: "Aguas", why: "La casa de oración apunta a la presencia de Elohim: primero en el santuario, después en Yehoshúa y finalmente en la morada plena con su pueblo." },
+    intro: "“Casa de oración” no es un eslogan para identificar un edificio, un ministerio o una plataforma. Isaías (Ieshaiáhu) 56 no empieza con arquitectura: empieza con justicia, rectitud y salvación. Luego habla de extranjeros y eunucos que se unen a יהוה, aman su Nombre, guardan el Shabat y se aferran a su pacto. Solo entonces aparece la promesa de una casa de oración para todos los pueblos. Yehoshúa toma esa frase para denunciar una casa convertida en cueva de ladrones, pero también para mostrar que el acceso a Elohim no puede separarse de su presencia, su gobierno y su pueblo.",
+    passages: [
+      { ref: "Isaías (Ieshaiáhu) 56:1 · TTH", text: "Así dijo יהוה: Guarden el proceso legal y hagan justicia, porque cercana está mi salvación para venir, y mi justicia para ser revelada.", note: "El orden del capítulo importa: justicia antes que eslogan y fidelidad antes que pertenencia declarada." },
+      { ref: "Isaías (Ieshaiáhu) 56:2, 6 · TTH", text: "Feliz es el hombre… que guarda el Shabat de profanarlo… Los hijos del extranjero que se unen a יהוה… para servirle y para amar el Nombre de יהוה…", note: "La casa de oración no reúne solamente voces: reúne personas que escuchan, sirven, aman el Nombre y guardan lo que יהוה apartó." },
+      { ref: "Isaías (Ieshaiáhu) 56:4–7 · TTH", text: "…se aferran a mi pacto… los hijos del extranjero que se unen a יהוה… los haré entrar al monte de mi santidad… porque mi casa, casa de oración será llamada para todos los pueblos.", note: "La inclusión no es indiferencia moral. Los pueblos son reunidos al unirse a יהוה, amar su Nombre, guardar el Shabat y aferrarse a su pacto." },
+      { ref: "Marcos (Markos) 11:17 · TTH", text: "¿No está escrito: ‘Porque mi casa, casa de oración será llamada para todos los pueblos’? Y ustedes la han hecho cueva de ladrones.", note: "Yehoshúa usa Isaías (Ieshaiáhu) para confrontar corrupción y mercantilización. La casa de oración no puede convertirse en una estructura que se beneficia de quienes buscan a Elohim." },
+      { ref: "Mateo (Matityahu) 12:6 · TTH", text: "Pero les digo que uno mayor que el Templo está aquí.", note: "Yehoshúa no desprecia el Templo: declara que su propia persona y misión son mayores que el edificio. El que estaba allí, en humildad y sin ostentación, era el lugar vivo de la presencia de Elohim." },
+      { ref: "Juan (Yojanán) 2:19–21 · TTH", text: "Destruyan este templo, y en tres días lo levantaré… Pero él hablaba del templo de su cuerpo.", note: "El Evangelio interpreta la imagen: el templo definitivo no es una construcción que los hombres puedan destruir, sino el cuerpo de Yehoshúa, que sería levantado." },
+      { ref: "1 Corintios 3:16; 6:19 · TTH", text: "¿No saben que ustedes son templo de Elohim, y que el Rúaj de Elohim mora en ustedes?… vuestro cuerpo es templo del Rúaj que está en ustedes.", note: "La comunidad y el cuerpo del creyente pueden ser llamados templo porque el Rúaj mora en ellos. No compiten con Yehoshúa: reciben de Él la vida, el acceso y la presencia que los convierte en morada." },
+      { ref: "Juan (Yojanán) 14:15, 21 · TTH", text: "Si ustedes me aman, también mis mandamientos guardarán… El que tiene mis mandamientos y el que los guarda, este es el que me ama.", note: "El amor y la oración no quedan separados de la obediencia. Una casa que conduce a Yehoshúa debe formar personas que guardan sus mandamientos." },
+      { ref: "1 Samuel (1 Shemuel) 15:22 · TTH", text: "He aquí, escuchar es mejor que un sacrificio, para inclinar los oídos, que la grosura de los carneros.", note: "La actividad religiosa no sustituye el escuchar que proviene de Adonai. En el lenguaje hebreo, oír no es solamente percibir un sonido: es recibir de Él la capacidad para oír su voz y obedecerla, andando en sus mandamientos por amor. La oración verdadera inclina el oído hacia esa obediencia; no sirve para encubrir una vida rebelde." },
+      { ref: "Isaías (Ieshaiáhu) 2:2–3 · TTH", text: "…afirmado será el monte de la casa de יהוה… y fluirán hacia él todas las naciones… nos enseñará de sus caminos, y andaremos en sus senderos.", note: "Los Profetas sí hablan de una reunión futura en el monte y en la casa de יהוה. La imagen apunta a aprender su Torah y caminar bajo su gobierno, no a satisfacer una curiosidad arquitectónica." },
+      { ref: "Ezequiel (Iejezqel) 37:26–27 · TTH", text: "Y haré para ellos un pacto de shalom; pacto olam será con ellos… daré mi santuario en medio de ellos para siempre. Y estará mi tabernáculo sobre ellos, y seré para ellos por Elohim y ellos serán para Mí por pueblo.", note: "El centro de la promesa no es el edificio aislado: es el pacto, la morada de Elohim y la relación ‘Él será nuestro Elohim y nosotros seremos su pueblo’." },
+      { ref: "Apocalipsis (Sodot) 21:3, 22 · TTH", text: "He aquí, el Mishkán de Elohim con los hijos del Adam… y ellos serán para Él por pueblo, y Él será para ellos por Elohim… Y Hejal no vi en ella, porque יהוה Elohim Tzebaot es su Hejal, es decir, el Cordero.", note: "La visión final conserva el propósito de los Profetas —Elohim morando con su pueblo—, pero lleva el templo a su plenitud: no hay un edificio separado porque la presencia de Elohim y del Cordero lo llena todo." },
+      { ref: "Génesis (Bereshit) 17:4, 7 · TTH", text: "Yo, he aquí, mi pacto es contigo, y serás por padre de multitud de naciones… estableceré mi pacto… por pacto olam, para ser para ti por Elohim, y para tu simiente después de ti.", note: "Este es el hilo del pacto que ayuda a leer Isaías (Ieshaiáhu) 56: una familia prometida a Avraham y una relación definida por la promesa de que יהוה será su Elohim." },
+      { ref: "Romanos 4:17; Gálatas 3:29 · TTH", text: "Porque por padre de multitud de naciones te he dado… Y si ustedes son del Mesías, entonces son simiente de Abraham, herederos según la promesa.", note: "La multitud de naciones no aparece como un proyecto separado de Israel, sino como la expansión de la promesa de Avraham en el Mesías. La pertenencia se recibe por unión con Yehoshúa y se demuestra viviendo bajo el reinado de Elohim." }
+    ],
+    method: [
+      "Lee Isaías (Ieshaiáhu) 56 desde el v.1: justicia, rectitud y salvación.",
+      "Identifica quiénes son reunidos y qué significa aferrarse al pacto.",
+      "Define tefilah como acercamiento, clamor y sometimiento delante de Elohim, no solo como pedir necesidades.",
+      "Sigue el desarrollo del templo: santuario, cuerpo de Yehoshúa, pueblo habitado por el Rúaj y cumplimiento final.",
+      "Lee los Profetas y Apocalipsis (Sodot) juntos: la reunión futura no termina en un edificio, sino en Elohim morando con su pueblo.",
+      "Examina si la reunión produce escucha, fidelidad y obediencia a los mandamientos, o solamente emoción y espectadores.",
+      "Distingue la promesa de un pueblo bajo el reinado de Elohim de cualquier reino o gobierno de este mundo."
+    ],
+    lexicon: [
+      ["תְּפִלָּה · tefilah", "Oración dirigida a Elohim: acercarse, clamar, presentar una necesidad y someterse delante de Él. En este artículo no significa repetir palabras ni cumplir una ceremonia vacía."],
+      ["בֵּית תְּפִלָּה · beit tefilah", "Casa de oración. Una casa destinada a que el pueblo se acerque a Elohim y aprenda a vivir delante de Él."],
+      ["Mishkán / Hejal", "Morada o santuario. Señalan la presencia de Elohim, no una autonomía del edificio respecto de Él."],
+      ["Extranjero / nokhri", "Persona de las naciones que puede unirse a יהוה y ser recibida dentro de su pueblo si se aferra a su pacto."],
+      ["Brit · pacto", "Compromiso de relación y pertenencia. En este artículo se sigue desde Avraham hasta su realización en el Mesías."],
+      ["Shabat", "Día apartado que Isaías (Ieshaiáhu) 56 presenta como una señal visible de fidelidad al pacto."],
+      ["Pueblo", "No es solamente etnia, ciudadanía o institución: es el conjunto que reconoce a יהוה como su Elohim y vive bajo su reinado."],
+      ["Olam haba", "El mundo venidero o la realidad futura. Las promesas proféticas de reunión encuentran su plenitud cuando Elohim mora con su pueblo."]
+    ],
+    historical: [
+      ["Templo de Yerushaláyim", "Lugar central del culto en el Segundo Templo; Yehoshúa cita Isaías (Ieshaiáhu) 56 al confrontar su corrupción."],
+      ["Templo en los escritos apostólicos", "Yehoshúa es presentado como el templo de su cuerpo; la comunidad y los cuerpos de los creyentes reciben la designación de templo porque el Rúaj mora en ellos."],
+      ["Tanaj: Escrituras hebreas (Torah, Profetas, Escritos), a menudo llamadas “Antiguo Testamento”.", "Los Profetas anuncian casa, monte, santuario y reunión; esas imágenes deben leerse junto con la revelación final de Apocalipsis (Sodot) 21."],
+      ["Pacto con Avraham", "La promesa incluye una multitud de naciones y una relación concreta: יהוה será Elohim para Avraham y para su simiente. No es una identidad política ni una etiqueta vacía."],
+      ["Olam haba", "En la esperanza futura el pueblo se reúne para postrarse, aprender y vivir bajo el Rey. Apocalipsis (Sodot) muestra que esa esperanza termina en la morada directa de Elohim y del Cordero, sin un hejal separado."],
+      ["Oración y obediencia", "En la Escritura, escuchar y obedecer no son enemigos de la oración. La reunión puede incluir cantos, súplicas y enseñanza, pero debe producir una vida que guarda los mandamientos de Elohim."],
+      ["Modelos ministeriales modernos", "Llamar “casa de oración” a un evento o marca no cumple el pasaje por sí solo."]
+    ],
+    sections: [
+      ["Qué significa una casa de oración", [
+        "Es una casa porque יהוה promete poner allí su Nombre y reunir a un pueblo delante de Él; no porque las paredes tengan poder propio.",
+        "Es de oración porque el pueblo se acerca, clama, aprende, ofrece y reconoce que depende de Elohim. *Tefilah* no es solamente pedir cosas: es presentarse delante de Él, escuchar y someterse a su juicio.",
+        "Es para todos los pueblos porque la promesa de Avraham mira a una multitud de naciones, pero la entrada tiene contenido: unirse a יהוה, amar su Nombre, guardar su Shabat y aferrarse a su pacto.",
+        "Por eso la casa de oración no es una marca, un negocio ni un lugar donde el acceso a Elohim se controla para beneficio de dirigentes."
+      ]],
+      ["¿Qué debe producir una casa de oración?", [
+        "Debe producir escucha: una persona que ora no solamente habla; recibe la Palabra, permite que sea examinada su conducta y se dispone a corregir el rumbo.",
+        "Debe producir fidelidad: guardar los mandamientos de Elohim, amar su Nombre, practicar justicia y permanecer en el testimonio de Yehoshúa.",
+        "Debe producir obediencia, no como una forma de comprar salvación, sino como el fruto visible de una relación viva. Yehoshúa une amor y mandamientos; Samuel recuerda que escuchar es mejor que el sacrificio.",
+        "Si una reunión habla mucho de oración pero enseña a despreciar los mandamientos, justifica la injusticia o convierte la experiencia espiritual en espectáculo, el nombre “casa de oración” no describe su fruto.",
+        "La prueba no es si la reunión emociona, llena un lugar o repite muchas palabras. La prueba es si conduce a una vida más fiel a Elohim, más obediente a su Palabra y más semejante al camino de Yehoshúa."
+      ]],
+      ["¿Quién es el templo según las Escrituras?", [
+        "Primero aparece el santuario: una señal de que Elohim desea morar en medio de su pueblo. Pero Salomón ya reconoce que los cielos no pueden contenerlo; el edificio sirve a la relación, no encierra a Elohim.",
+        "Después, Yehoshúa se presenta como el templo vivo. Cuando dice que uno mayor que el Templo está allí, no está compitiendo con una construcción: está revelando que en Él se acerca la presencia, la autoridad y la salvación de Elohim.",
+        "Juan (Yojanán) explica que hablaba del templo de su cuerpo. Por eso, cuando su cuerpo es entregado y levantado, el acceso a Elohim ya no depende de preservar un edificio como centro último.",
+        "Luego la asamblea y el cuerpo del creyente son llamados templo por la morada del Rúaj. Esto no convierte a la institución en propietaria de Elohim: significa que quienes pertenecen al Mesías deben ser una morada santa, no una plataforma de dominio.",
+        "Finalmente, Apocalipsis (Sodot) 21 no ve templo en la ciudad porque יהוה Elohim y el Cordero son su Hejal. La plenitud no es ausencia de presencia; es presencia tan completa que ya no hay edificio separado que la represente."
+      ]],
+      ["Los Profetas anuncian una reunión futura", [
+        "Isaías (Ieshaiáhu) habla de las naciones subiendo al monte de la casa de יהוה para recibir Torah y caminar en sus senderos.",
+        "Ezequiel (Iejezqel) anuncia un pacto de shalom, un santuario en medio del pueblo y el tabernáculo de Elohim sobre ellos.",
+        "Zejariáhu presenta a los que quedan de las naciones subiendo para postrarse ante el Rey y celebrar Sucot.",
+        "Estas imágenes no deben separarse de su finalidad: reunirse con Elohim, aprender de Él, reconocer su reinado y pertenecerle. El edificio es una figura profética; Apocalipsis (Sodot) muestra el cumplimiento cuando la morada de Elohim está con los seres humanos."
+      ]],
+      ["¿Qué pacto es el que menciona Isaías (Ieshaiáhu) 56?", [
+        "El capítulo no presenta una pertenencia sin contenido. Dice que el extranjero se une a יהוה, ama su Nombre, le sirve, guarda el Shabat y se aferra a su pacto.",
+        "El hilo comienza en Avraham: יהוה promete que será padre de multitud de naciones y establece su pacto para ser Elohim de él y de su simiente. Ese es el horizonte de una familia/pueblo que no se limita a una sola nación de la carne.",
+        "La promesa avanza por Israel, los Profetas y el Mesías. Pablo dice que quien pertenece al Mesías es simiente de Avraham y heredero según la promesa. Por eso las naciones son reunidas en el pueblo de Elohim, no construyen un pueblo rival ni borran la historia del pacto.",
+        "La señal decisiva no es reclamar una etiqueta, sino desear que יהוה sea nuestro Elohim: vivir bajo su reinado, escuchar su Palabra, caminar en sus caminos y ser reconocidos como su pueblo."
+      ]],
+      ["Un pueblo bajo su reinado, no los reinos de este mundo", [
+        "Cuando las Escrituras dicen “Él será para nosotros por Elohim y nosotros seremos para Él por pueblo”, describen una relación de gobierno, obediencia, protección y pertenencia espiritual.",
+        "Esto no debe confundirse con convertir un Estado, una nación moderna, una denominación o una organización religiosa en el reino de Yehoshúa. Su pueblo no se define por conquistar el poder de Babel, sino por salir de sus contaminaciones y esperar al Rey.",
+        "La casa de oración, entonces, no es el centro de una maquinaria religiosa. Es una anticipación de la morada final: un pueblo de muchas naciones reunido en Yehoshúa, bajo el reinado de Elohim, esperando estar con Él."
+      ]],
+      ["Qué no autoriza la frase", [
+        "No autoriza a llamar “casa de oración” a un ministerio porque el eslogan suena bien.",
+        "No borra la justicia, el pacto ni la obediencia para celebrar solamente la inclusión.",
+        "No obliga a buscar un edificio como si pudiera contener la presencia de Elohim o reemplazar al Mesías.",
+        "No transforma automáticamente un evento contemporáneo, un Estado o un gobierno en cumplimiento profético."
+      ]],
+      ["Cómo examinar una reunión", [
+        "¿Hay justicia y misericordia, o solo marca?",
+        "¿El acceso a Elohim se vende o se controla?",
+        "¿La reunión conduce a Yehoshúa o vuelve indispensable a una institución?",
+        "¿Produce oración, obediencia y esperanza en el reinado de Elohim, o solamente espectadores?"
+      ]]
+    ],
+    answer: "Una casa de oración es la reunión de un pueblo que יהוה acerca a sí mismo con justicia, fidelidad y pacto. *Tefilah* es acercarse, clamar, escuchar y someterse delante de Elohim; por eso su fruto debe ser fidelidad y obediencia a sus mandamientos. El templo encuentra su centro y su cumplimiento en Yehoshúa: Él es el cuerpo levantado, el lugar vivo de la presencia y el acceso a Elohim; la asamblea es templo porque recibe su Rúaj. Las promesas proféticas de subir al monte y reunirse en el santuario terminan en Apocalipsis (Sodot) 21: Elohim y el Cordero son el Hejal, y su pueblo mora con Él. El pacto es el hilo prometido a Avraham —una multitud de naciones para quienes יהוה será Elohim—, realizado en el Mesías para formar un pueblo que desea vivir bajo su reinado.",
+    sources: [[sourceLinks.isaias56, "Isaías (Ieshaiáhu) 56 · justicia, extranjeros y casa de oración"], [sourceLinks.tefilah, "Tefilah · oración, juicio y sumisión ante Elohim"], [sourceLinks.temploMayor, "Yehoshúa y el que es mayor que el Templo"], [sourceLinks.apocalipsis, "La revelación de Yehoshúa · contexto de Apocalipsis (Sodot)"], [sourceLinks.romanos11, "Romanos 11 · olivo, pueblo y ramas injertadas"], [sourceLinks.pactoAbraham, "El pacto de Avraham y la promesa del pueblo"]]
+  }
+};
