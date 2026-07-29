@@ -11,7 +11,7 @@ El trabajo editorial usa dos proyectos de apoyo (no se publican transcripciones 
 | [Proyecto Shaul](https://shaul.vercel.app) | Notas, inventarios de video, transcripciones privadas, índice de fuentes |
 | [Davar](https://davar.bible) | Corpus bíblico (TTH, OE, Delitzsch, etc.) para citar con rigor |
 
-### Canales de video (únicos autorizados)
+### Canales de video de referencia
 
 - [Eric de Jesús Rodríguez Mendoza](https://www.youtube.com/@EricdeJes%C3%BAsRodr%C3%ADguezMendoza)
 - [Somos el Cuerpo del Mesías](https://www.youtube.com/@SomosElCuerpodelMesias) (Natanael Doldan)
