@@ -34,7 +34,7 @@ export const pages = {
     render: () => renderSectionPage("torah", pages.torah)
   },
   benhaadam: {
-    title: "¿Por qué es tan importante Ben Ha’Adam?",
+    title: "¿Por qué es importante el Ben Ha’Adam?",
     eyebrow: "Conceptos",
     description: "Bar Enash, Ben HaAdam y ὁ υἱὸς τοῦ ἀνθρώπου: un título que no puede reducirse a ‘humano’.",
     render: reading("benhaadam")
@@ -100,7 +100,7 @@ export const pages = {
     render: reading("ruaj")
   },
   mandamientos: {
-    title: "¿Qué relación tienen Torah y Evangelio?",
+    title: "¿Qué relación tienen la Torah y el Evangelio?",
     eyebrow: "Torah y Evangelio",
     description: "La obediencia como fruto de la gracia.",
     render: reading("mandamientos")

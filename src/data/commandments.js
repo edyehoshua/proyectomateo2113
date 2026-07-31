@@ -10,7 +10,7 @@ export const yehoshuaCommandments = [
     number: "02",
     title: "No tener otros dioses ni servir imágenes",
     reference: "Shemot 20:3–6",
-    text: "No tendrás para ti otros dioses sobre mi rostro. No harás para ti estatuilla, ni cualquier imagen... No te inclinarás a ellos, y no los servirás.",
+    text: "No tendrás para ti otros dioses¹⁰⁶ sobre mi rostro. No harás para ti estatuilla, ni cualquier imagen que <em>está</em> en el cielo, de arriba, ni lo que <em>está</em> en la tierra, debajo, ni lo que <em>está</em> en el agua, debajo de la tierra. No te inclinarás a ellos, y no los servirás; porque Yo soy יהוה tu Elohim, El celoso¹⁰⁷, que visito¹⁰⁸ la iniquidad¹⁰⁹ de los padres sobre los hijos sobre las terceras y sobre las cuartas <em>generaciones</em> de los que me odian. Pero hago bondad¹¹⁰ a miles, a los que me aman y¹¹¹ a los que guardan mis mandamientos.",
     question: "¿Hay algo —una figura, sistema, líder o deseo— que terminó ocupando el lugar de Adonai?"
   },
   {
@@ -24,7 +24,7 @@ export const yehoshuaCommandments = [
     number: "04",
     title: "Apartar el día del Shabat",
     reference: "Shemot 20:8–11",
-    text: "Recuerda el día del Shabat para apartarlo... el día séptimo es Shabat para יהוה.",
+    text: "Recuerda¹¹³ el día del Shabat para apartarlo¹¹⁴. Seis días trabajarás y harás todo tu trabajo, pero el día séptimo es Shabat para יהוה, no harás ningún trabajo, tú, y tu hijo, y tu hija, tu siervo y tu sierva, y tu ganado, y tu extranjero que <em>está</em> en tus puertas. Porque <em>en</em> seis días hizo יהוה los cielos y la tierra, el mar y todo lo que <em>hay</em> en ellos, y descansó en el día séptimo; por eso, bendijo יהוה al día del Shabat y lo apartó.",
     question: "¿Existe en tu vida un tiempo apartado para Adonai, el descanso, la misericordia y la memoria de la creación?"
   },
   {
@@ -66,7 +66,7 @@ export const yehoshuaCommandments = [
     number: "10",
     title: "No codiciar",
     reference: "Shemot 20:17",
-    text: "No codiciarás la casa de tu compañero... y nada que sea de tu compañero.",
+    text: "No codiciarás la casa de tu compañero, no codiciarás la mujer de tu compañero, y su siervo, y su sierva, y su buey, y su asno, y nada que <em>sea</em> de tu compañero.",
     question: "¿Qué deseo está gobernando tu corazón y qué te hace mirar con resentimiento lo que pertenece a otro?"
   }
 ];

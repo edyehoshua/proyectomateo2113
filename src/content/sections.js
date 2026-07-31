@@ -10,7 +10,7 @@ export const sections = {
     home: [
       ["¿Quién es Yehoshúa: Elohim y Adón?", "#/deidad"],
       ["¿Por qué se le llama Yehoshúa?", "#/nombre"],
-      ["¿Por qué es tan importante Ben Ha’Adam?", "#/benhaadam"],
+      ["¿Por qué es importante el Ben Ha’Adam?", "#/benhaadam"],
       ["¿Qué significa la corporeidad de Yehoshúa HaMashíaj?", "#/corporeidad"],
       ["¿Cuál es el Israel de Elohim?", "#/israel"],
       ["¿Qué significa vivir bajo el Ruaj?", "#/ruaj"]
@@ -36,10 +36,10 @@ export const sections = {
         ]
       },
       {
-        title: "¿Por qué es tan importante Ben Ha’Adam?",
+        title: "¿Por qué es importante el Ben Ha’Adam?",
         href: "#/benhaadam",
         questions: [
-          "¿Por qué es tan importante Ben Ha’Adam?",
+          "¿Por qué es importante el Ben Ha’Adam?",
           "¿Qué significa Bar Enash?",
           "¿Qué tiene que ver Daniel 7 con este título?"
         ]
@@ -115,7 +115,7 @@ export const sections = {
     intro: "Artículos publicados. Cada uno agrupa las preguntas que trata; no hay enlaces que lleven a otra página con otro título.",
     home: [
       ["¿Cómo leer Apocalipsis (Sodot)?", "#/apocalipsis"],
-      ["¿Por qué es tan importante Ben Ha’Adam?", "#/benhaadam"],
+      ["¿Por qué es importante el Ben Ha’Adam?", "#/benhaadam"],
       ["¿Qué anuncia Isaías (Ieshaiáhu) 19?", "#/isaias19"],
       ["¿Qué significa una casa de oración?", "#/isaias56"],
       ["¿Cuál es el Israel de Elohim?", "#/israel"]
@@ -133,10 +133,10 @@ export const sections = {
         ]
       },
       {
-        title: "¿Por qué es tan importante Ben Ha’Adam?",
+        title: "¿Por qué es importante el Ben Ha’Adam?",
         href: "#/benhaadam",
         questions: [
-          "¿Por qué es tan importante Ben Ha’Adam?",
+          "¿Por qué es importante el Ben Ha’Adam?",
           "¿Qué anuncia Daniel 7 con Bar Enash?"
         ]
       },
@@ -174,7 +174,7 @@ export const sections = {
     title: "Torah y Evangelio",
     intro: "Lista de artículos. Debajo de cada uno, las preguntas que ese artículo responde.",
     home: [
-      ["¿Qué relación tienen Torah y Evangelio?", "#/mandamientos"],
+      ["¿Qué relación tienen la Torah y el Evangelio?", "#/mandamientos"],
       ["¿Quieres caminar en los mandamientos de Yehoshúa?", "#/mandamientos-yehoshua"],
       ["¿Qué significa realmente judaizar?", "#/galatas"],
       ["¿Quién es Israel en Romanos 11?", "#/romanos11"],
@@ -183,10 +183,10 @@ export const sections = {
     ],
     articles: [
       {
-        title: "¿Qué relación tienen Torah y Evangelio?",
+        title: "¿Qué relación tienen la Torah y el Evangelio?",
         href: "#/mandamientos",
         questions: [
-          "¿Qué relación tienen Torah y Evangelio?",
+          "¿Qué relación tienen la Torah y el Evangelio?",
           "¿La Torah fue abolida?",
           "¿Qué producen la gracia y la obediencia?"
         ]

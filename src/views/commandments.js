@@ -34,7 +34,7 @@ export function renderYehoshuaCommandments(page) {
           <div>
             <div class="eyebrow">Después de marcar</div>
             <h2>¿Qué necesita cambiar?</h2>
-            <p>No hace falta responder todo de una vez. Elige una palabra, vuelve al texto y pregunta al Ruaj cómo llevarla a la vida cotidiana.</p>
+            <p>No hace falta responder todo de una vez. Elige una palabra, vuelve al texto y pregunta a Adonai cómo llevarla a la vida cotidiana.</p>
           </div>
           <div class="commandment-prompts">
             <span>¿Qué ya guardas?</span>
