@@ -349,7 +349,7 @@ export const conceptosReadings = {
         "El pueblo de Yehoshúa sale de la contaminación para volver a la verdad, no para construir otra Babel con lenguaje hebreo o cristiano."
       ]],
       ["Por qué la lectura de reemplazo no encaja con Romanos 11", [
-        "Implica que Adonay abandonó lo que juró y redefinió a su pueblo sin el testimonio del texto.",
+        "Implica que Adonai abandonó lo que juró y redefinió a su pueblo sin el testimonio del texto.",
         "Suele venir conectado a otras teologías que vacían la continuidad de Israel y exaltan a una institución."
       ]],
       ["Qué sí sostiene el texto", [
