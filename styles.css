@@ -418,10 +418,26 @@ h3 { margin: 0 0 10px; font-size: 23px; }
   line-height: 1.75;
 }
 .topic-sources {
+  margin: 72px 0 30px;
+  padding-top: 30px;
+  border-top: 1px solid var(--line-dark);
+}
+.topic-sources-label {
+  margin: 0 0 18px;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 24px;
+}
+.topic-source-links {
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
-  margin: 72px 0 30px;
+}
+.topic-sources-empty {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.75;
 }
 .section-index { padding: 64px 0 136px; }
 .section-topic-list {

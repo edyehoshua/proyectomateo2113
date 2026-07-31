@@ -42,6 +42,10 @@ export function renderYehoshuaCommandments(page) {
             <span>¿Qué te gustaría aprender?</span>
           </div>
         </div>
+        <section class="topic-sources" aria-label="Enseñanzas en video">
+          <p class="topic-sources-label">Enseñanzas en video:</p>
+          <p class="topic-sources-empty">Todavía no hay una enseñanza en video catalogada para este tema.</p>
+        </section>
       </article>
     </section>`;
 }
