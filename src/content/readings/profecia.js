@@ -129,7 +129,7 @@ export const profeciaReadings = {
       "No borres el referente histórico de Egipto o Asiria, pero tampoco permitas que la geografía desplace al pacto y al pueblo al que Elohim está restaurando."
     ],
     lexicon: [
-      ["מַשָּׂא · massa", "Carga, peso u oráculo. Una palabra profética pesada que pone delante de un pueblo el juicio, la corrección y el propósito de יהוה."],
+      ["מַשָּׂא · masa", "Carga, peso u oráculo. Una palabra profética pesada que pone delante de un pueblo el juicio, la corrección y el propósito de יהוה."],
       ["עַם · am", "Pueblo. En la palabra profética no equivale automáticamente a un Estado moderno: hay que ver la relación, la pertenencia y el pacto."],
       ["מִצְרַיִם · Mitzráim", "Egipto en hebreo. Es un nombre histórico y también evoca la casa de esclavitud, idolatría, opresión y el lugar desde el que יהוה puede redimir y reunir a su pueblo."],
       ["אַשּׁוּר · Ashur", "Asiria. Es una potencia histórica y, en el lenguaje profético, un lugar de opresión, dispersión y remanente de Israel; también puede representar el poder imperial que se levanta contra el pueblo."],
