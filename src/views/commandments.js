@@ -1,7 +1,11 @@
 import { yehoshuaCommandments } from "../data/commandments.js";
 
+function cleanCommandmentText(text) {
+  return text.replace(/[⁰¹²³⁴⁵⁶⁷⁸⁹]+/gu, "");
+}
+
 function renderCommandmentCard(commandment) {
-  return `<details class="commandment-card"><summary><span class="commandment-number">${commandment.number}</span><span class="commandment-title">${commandment.title}</span><span class="commandment-open">abrir +</span></summary><div class="commandment-body"><div class="commandment-reference">${commandment.reference}</div><p class="commandment-text">“${commandment.text}”</p><p class="commandment-question">${commandment.question}</p><label class="commandment-check"><input type="checkbox" data-commandment-id="${commandment.number}" /> <span>Quiero examinarlo delante de Adonai.</span></label></div></details>`;
+  return `<details class="commandment-card"><summary><span class="commandment-number">${commandment.number}</span><span class="commandment-title">${commandment.title}</span><span class="commandment-open">abrir +</span></summary><div class="commandment-body"><div class="commandment-reference">${commandment.reference}</div><p class="commandment-text">“${cleanCommandmentText(commandment.text)}”</p><p class="commandment-question">${commandment.question}</p><label class="commandment-check"><input type="checkbox" data-commandment-id="${commandment.number}" /> <span>Quiero examinarlo delante de Adonai.</span></label></div></details>`;
 }
 
 export function renderYehoshuaCommandments(page) {
@@ -33,12 +37,12 @@ export function renderYehoshuaCommandments(page) {
         <div class="commandment-closing">
           <div>
             <div class="eyebrow">Después de marcar</div>
-            <h2>¿Qué necesita cambiar?</h2>
+            <h2>¿Cómo quieres caminar?</h2>
             <p>No hace falta responder todo de una vez. Elige una palabra, vuelve al texto y pregunta a Adonai cómo llevarla a la vida cotidiana.</p>
           </div>
           <div class="commandment-prompts">
-            <span>¿Qué ya guardas?</span>
-            <span>¿Qué has justificado?</span>
+            <span>¿Qué ya practicas?</span>
+            <span>¿Qué quieres retomar?</span>
             <span>¿Qué te gustaría aprender?</span>
           </div>
         </div>
