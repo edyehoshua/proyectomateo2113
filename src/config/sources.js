@@ -108,9 +108,9 @@ export const sourceCatalog = [
   ["Gálatas · La escucha de la emunah", "Somos el Cuerpo del Mesías · Natanael Doldan", sourceLinks.natanaelGalatasEmunah, "Disponible"],
   ["Gálatas · Estábamos bajo sentencia", "Somos el Cuerpo del Mesías · Natanael Doldan", sourceLinks.natanaelGalatasSentencia, "Disponible"],
   ["Gálatas · El Ruaj es opuesto a la carne", "Somos el Cuerpo del Mesías · Natanael Doldan", sourceLinks.natanaelGalatasRuaj, "Disponible"],
-  ["Isaías (Ieshaiáhu) 19 · Carga judicial de Mitzráim", "Libro de Isaías (Ieshaiáhu) · capítulo 19", sourceLinks.natanaelIsaias19Primera, "Pendiente de cotejo"],
-  ["Isaías (Ieshaiáhu) 19 · Mitzráim conocerá a Elohim", "Libro de Isaías (Ieshaiáhu) · capítulo 19", sourceLinks.natanaelIsaias19Segunda, "Pendiente de cotejo"],
-  ["Isaías (Ieshaiáhu) 56 · justicia y casa de oración", "Isaías (Ieshaiáhu), parte 2 · Eric de Jesús", sourceLinks.isaias56, "Disponible · segmento con timestamp"],
+  ["Isaías (Yeshaiáhu) 19 · Carga judicial de Mitzráim", "Libro de Isaías (Yeshaiáhu) · capítulo 19", sourceLinks.natanaelIsaias19Primera, "Pendiente de cotejo"],
+  ["Isaías (Yeshaiáhu) 19 · Mitzráim conocerá a Elohim", "Libro de Isaías (Yeshaiáhu) · capítulo 19", sourceLinks.natanaelIsaias19Segunda, "Pendiente de cotejo"],
+  ["Isaías (Yeshaiáhu) 56 · justicia y casa de oración", "Isaías (Yeshaiáhu), parte 2 · Eric de Jesús", sourceLinks.isaias56, "Disponible · segmento con timestamp"],
   ["Tefilah · oración, juicio y sumisión", "Efesios, parte 5 · Eric de Jesús", sourceLinks.tefilah, "Disponible · segmento con timestamp"],
   ["Yehoshúa · mayor que el Templo", "Eric de Jesús · Jag Hashavu'ot 5781", sourceLinks.temploMayor, "Disponible · segmento con timestamp"],
   ["Pacto de Avraham · multitud de naciones", "Eric de Jesús · Parashat Bejuqotay", sourceLinks.pactoAbraham, "Disponible · segmento con timestamp"],
@@ -141,7 +141,7 @@ export const sourceCatalog = [
   ["Apocalipsis (Sodot): visiones y Ben Ha’Adam", "La revelación de Yehoshúa HaMashíaj · visión del Hijo del Hombre", sourceLinks.apocalipsisVision, "Disponible · segmento con timestamp"],
   ["Apocalipsis (Sodot) · mensaje a Filadelfia", "La revelación de Yehoshúa HaMashíaj, parte 10 · mensaje a Filadelfia", sourceLinks.filadelfia, "Disponible · segmento con timestamp"],
   ["Dos testigos y nombres espirituales", "Sedom y Mitzráim · Eric de Jesús", sourceLinks.dosTestigos, "Disponible"],
-  ["Isaías (Ieshaiáhu) · Introducción y sujeto profético", "Isaías (Ieshaiáhu), parte 2 · Eric de Jesús", sourceLinks.isaiasIntro2, "Disponible"],
+  ["Isaías (Yeshaiáhu) · Introducción y sujeto profético", "Isaías (Yeshaiáhu), parte 2 · Eric de Jesús", sourceLinks.isaiasIntro2, "Disponible"],
   ["Gálatas: qué significa judaizar", "Gálatas · Eric de Jesús", sourceLinks.galatas, "Disponible"],
   ["Romanos", "Romanos · Eric de Jesús", sourceLinks.romanos, "Disponible"]
 ];

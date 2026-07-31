@@ -118,7 +118,7 @@ La distinción que debe quedar visible es:
 
 La sangre no define la procedencia de la semilla. La explicación de Hebreos 2 distingue entre lo que los hijos tienen en común, lo que el Mesías recibe al ponerse junto a ellos y la muerte que asume para destruir al que tiene el poder de la muerte. El cuerpo que Elohim prepara no ve corrupción.
 
-Los pasajes iniciales son Bereshit 3:15, Bereshit 22:18, Tehilim 16:10, Ieshaiahu 53, Yojanán 10:17-18, Hechos 2:27, Hebreos 2:13-17, Hebreos 9–10 y 1 Corintios 15:44-50.
+Los pasajes iniciales son Bereshit 3:15, Bereshit 22:18, Tehilim 16:10, Yeshaiahu 53, Yojanán 10:17-18, Hechos 2:27, Hebreos 2:13-17, Hebreos 9–10 y 1 Corintios 15:44-50.
 
 ### 1.2.3 Cómo porta el pecado del mundo sin tener pecado
 
@@ -144,7 +144,7 @@ La distinción editorial debe quedar visible:
 
 El nombre debe estudiarse en relación con la misión que el texto atribuye al Mesías: salvar, revelar el Nombre, reunir a los hijos dispersos y llevar a cumplimiento la obra de Elohim. No se trata solamente de elegir una pronunciación; se trata de preguntar qué anuncia el nombre y cómo los Evangelios presentan su cumplimiento.
 
-La ruta inicial incluye Shemot 3:14-15, Tehilim 22:23, Ieshaiahu 33:22, Matityahu 1:21, Markos 1, Yojanán 8:58, Yojanán 11:52 y Hebreos 2:12. También debe distinguirse entre:
+La ruta inicial incluye Shemot 3:14-15, Tehilim 22:23, Yeshaiahu 33:22, Matityahu 1:21, Markos 1, Yojanán 8:58, Yojanán 11:52 y Hebreos 2:12. También debe distinguirse entre:
 
 - la forma escrita y la pronunciación histórica del nombre;
 - la relación etimológica entre el nombre y la salvación;

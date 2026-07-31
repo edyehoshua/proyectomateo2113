@@ -31,7 +31,7 @@ export function renderYehoshuaCommandments(page) {
     <section class="container topic-body commandments-page">
       <article class="article article-wide">
         <div class="commandment-intro">
-          <p class="commandment-context">Estos mandamientos pertenecen al testimonio de la Torah que Yehoshúa enseñó, resumió en amor y llamó a guardar: Matityahu 5:17–20; 19:17; Markos 12:29–31; Iojanán 14:15.</p>
+          <p class="commandment-context">Estos mandamientos pertenecen al testimonio de la Torah que Yehoshúa enseñó, resumió en amor y llamó a guardar: Matityahu 5:17–20; 19:17; Markos 12:29–31; Yojanán 14:15.</p>
         </div>
         <div class="commandment-grid">${yehoshuaCommandments.map(renderCommandmentCard).join("")}</div>
         <div class="commandment-closing">
