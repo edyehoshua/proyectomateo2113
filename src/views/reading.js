@@ -1,11 +1,19 @@
 import { readings } from "../content/readings/index.js";
 import { link } from "./helpers.js";
 
+function cleanPassageText(text) {
+  return text
+    .replace(/[⁰¹²³⁴⁵⁶⁷⁸⁹]+/gu, "")
+    .replace(/__([^_]+)__/g, "<em>$1</em>");
+}
+
 function renderPassage(passage) {
+  const text = cleanPassageText(passage.text);
+
   return `
     <figure class="passage-block">
       <figcaption class="passage-ref">${passage.ref}</figcaption>
-      <blockquote class="passage-text">${passage.text}</blockquote>
+      <blockquote class="passage-text">${text}</blockquote>
       ${passage.note ? `<p class="passage-note">${passage.note}</p>` : ""}
     </figure>`;
 }
