@@ -18,7 +18,7 @@ No se debe convertir una discusión de pronunciación en el centro del evangelio
 ## Ruta de textos
 
 - Shemot 3:14-15: el Nombre y la promesa de presencia.
-- Ieshaiahu 33:22: יהוה como juez, legislador, rey y salvador.
+- Yeshaiahu 33:22: יהוה como juez, legislador, rey y salvador.
 - Matityahu 1:21: el nombre vinculado con salvar de los pecados.
 - Yojanán 11:52: reunir en uno a los hijos de Elohim dispersos.
 - Hebreos 2:12: declarar el Nombre en medio de la asamblea.

@@ -105,9 +105,13 @@ export function renderReading(key, page) {
     ? `<p class="topic-answer">${reading.answer}</p>`
     : "";
 
-  const sources = reading.sources?.length
-    ? `<div class="topic-sources" aria-label="Referencias audiovisuales">${reading.sources.map(([href, label]) => link(href, label)).join("")}</div>`
-    : "";
+  const sourceLinks = reading.sources?.length
+    ? `<div class="topic-source-links">${reading.sources.map(([href, label]) => link(href, label)).join("")}</div>`
+    : `<p class="topic-sources-empty">Todavía no hay una enseñanza en video catalogada para este tema.</p>`;
+  const sources = `<section class="topic-sources" aria-label="Enseñanzas en video">
+      <p class="topic-sources-label">Enseñanzas en video:</p>
+      ${sourceLinks}
+    </section>`;
 
   return `
     <section class="topic-hero">

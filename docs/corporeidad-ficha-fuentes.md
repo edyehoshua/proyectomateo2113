@@ -56,7 +56,7 @@ La redacción pública debe presentar esto como la tesis doctrinal del proyecto 
 - Bereshit 3:15: **zeraʿ**, semilla/simiente.
 - Bereshit 22:18 y Gálatas 3:16: la semilla en singular y su lectura mesiánica.
 - Tehilim 16:10 y Hechos 2:27: el cuerpo que no ve corrupción.
-- Ieshaiahu 53: vida puesta en ofrenda y carga del pecado.
+- Yeshaiahu 53: vida puesta en ofrenda y carga del pecado.
 - Yojanán 10:17-18: entregar la vida y volver a tomarla.
 - Hebreos 2:13-17: hijos, carne y sangre, muerte y posición del Mesías junto a ellos.
 - Hebreos 9–10 y 1 Pedro 1:18-19: sangre, sacrificio y rescate.

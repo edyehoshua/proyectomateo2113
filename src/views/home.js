@@ -27,6 +27,9 @@ export function renderHome() {
             <figcaption>Volver al texto: Es como escalar una montaña, un trabajo arduo pero al hacerlo ganas altura, contexto y calma antes de forzar una conclusión.</figcaption>
           </figure>
           <div class="hero-question">¿Y si esa incomodidad no fuera falta de fe, sino una invitación a volver a examinarlo todo?</div>
+          <div class="hero-audience" aria-label="A quién está dirigida esta invitación">
+            <p>Esto no es para confrontar un ministerio, eventos o agendas. Es para aquellos que tienen oídos para oír y están oyendo lo que desde hace tiempo Adonai Yehoshúa les ha hablado a sus corazones.</p>
+          </div>
           <div class="hero-principles" aria-label="Principios de discernimiento">
             <p>Donde hay multitudes de gente, generalmente allí no es. El Adón Yehoshúa HaMashíaj dijo que son muy pocos los que hallan la puerta.</p>
             <p>Aunque las personas tengan buenas intenciones, si lo que enseñan, dicen y hacen no está alineado con las Escrituras, lamentablemente están en error.</p>

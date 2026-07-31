@@ -116,7 +116,7 @@ export const sections = {
     home: [
       ["¿Cómo leer Apocalipsis (Sodot)?", "#/apocalipsis"],
       ["¿Por qué es importante el Ben Ha’Adam?", "#/benhaadam"],
-      ["¿Qué anuncia Isaías (Ieshaiáhu) 19?", "#/isaias19"],
+      ["¿Qué anuncia Isaías (Yeshaiáhu) 19?", "#/isaias19"],
       ["¿Qué significa una casa de oración?", "#/isaias56"],
       ["¿Cuál es el Israel de Elohim?", "#/israel"]
     ],
@@ -129,7 +129,7 @@ export const sections = {
           "¿Qué son los símbolos, bestias, sellos y trompetas?",
           "¿Cómo se leen las siete asambleas?",
           "¿Qué es el literalismo sin fundamento?",
-          "¿Cómo se lee desde Daniel, Isaías (Ieshaiáhu), Ezequiel (Iejezqel) y Zacarías?"
+          "¿Cómo se lee desde Daniel, Isaías (Yeshaiáhu), Ezequiel (Yejezqel) y Zacarías?"
         ]
       },
       {
@@ -141,10 +141,10 @@ export const sections = {
         ]
       },
       {
-        title: "¿Qué anuncia Isaías (Ieshaiáhu) 19?",
+        title: "¿Qué anuncia Isaías (Yeshaiáhu) 19?",
         href: "#/isaias19",
         questions: [
-          "¿Qué anuncia Isaías (Ieshaiáhu) 19?",
+          "¿Qué anuncia Isaías (Yeshaiáhu) 19?",
           "¿Qué pasa con Mitzráim, Ashur e Israel?",
           "¿Pueden las naciones ser representación en el lenguaje profético?"
         ]
@@ -154,7 +154,7 @@ export const sections = {
         href: "#/isaias56",
         questions: [
           "¿Qué significa una casa de oración?",
-          "¿Qué dice Isaías (Ieshaiáhu) 56 sobre extranjeros y eunucos?",
+          "¿Qué dice Isaías (Yeshaiáhu) 56 sobre extranjeros y eunucos?",
           "¿Cómo usa Yehoshúa esa frase en el Templo?"
         ]
       },

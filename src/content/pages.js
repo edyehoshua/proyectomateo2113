@@ -24,7 +24,7 @@ export const pages = {
   profecia: {
     title: "Profecía",
     eyebrow: "Sección",
-    description: "Cómo leer Apocalipsis (Sodot), Isaías (Ieshaiáhu) y las imágenes del Tanaj sin forzar el texto.",
+    description: "Cómo leer Apocalipsis (Sodot), Isaías (Yeshaiáhu) y las imágenes del Tanaj sin forzar el texto.",
     render: () => renderSectionPage("profecia", pages.profecia)
   },
   torah: {
@@ -130,7 +130,7 @@ export const pages = {
     render: reading("apocalipsis")
   },
   isaias19: {
-    title: "¿Qué anuncia Isaías (Ieshaiáhu) 19?",
+    title: "¿Qué anuncia Isaías (Yeshaiáhu) 19?",
     eyebrow: "Profecía",
     description: "Mitzráim, Ashur e Israel: nombres, juicio, sanidad y representación.",
     render: reading("isaias19")

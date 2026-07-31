@@ -12,7 +12,7 @@ export function renderSources(page) {
     </section>
     <section class="container section">
       <p class="lead-text" style="max-width:720px;margin-bottom:28px">Las enseñanzas audiovisuales de trabajo proceden de <strong>Eric de Jesús Rodríguez Mendoza</strong> y de <strong>Natanael Doldan</strong> (Somos el Cuerpo del Mesías). El sitio no es oficial ni habla en su nombre. Aquí solo hay enlaces, citas breves y síntesis propia. El material editorial puede consultarse en <a href="https://shaul.vercel.app" target="_blank" rel="noopener noreferrer">Proyecto Shaul</a> y el texto bíblico se coteja con <a href="https://davar.bible" target="_blank" rel="noopener noreferrer">Davar</a>.</p>
-      <div class="source-list">${sourceCatalog.map(([title, detail, href, status]) => `<div class="source-item"><strong>${title}</strong><span>${detail}</span><em class="status">${status}</em><br /><a href="${href}" target="_blank" rel="noreferrer">Abrir video original →</a></div>`).join("")}</div>
+      <div class="source-list">${sourceCatalog.map(([title, detail, href]) => `<div class="source-item"><strong>${title}</strong><span>${detail}</span><a class="button button-secondary source-video-link" href="${href}" target="_blank" rel="noreferrer">Abrir video original →</a></div>`).join("")}</div>
       <div class="callout" style="margin-top:34px">
         <div>
           <div class="eyebrow">Método</div>
